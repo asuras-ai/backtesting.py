@@ -15,7 +15,7 @@ Make sure you have Python 3.7+ installed on your system.
 ### Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/backtesting-collection.git
+   https://github.com/asuras-ai/backtesting.py.git
    cd backtesting-collection
    ```
 
